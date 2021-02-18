@@ -1,0 +1,24 @@
+PING youtube.com (172.217.174.238) 56(84) bytes of data.
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=2 ttl=111 time=104 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=3 ttl=111 time=127 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=4 ttl=111 time=149 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=5 ttl=111 time=172 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=6 ttl=111 time=197 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=7 ttl=111 time=74.9 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=8 ttl=111 time=59.2 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=9 ttl=111 time=93.0 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=10 ttl=111 time=182 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=11 ttl=111 time=130 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=12 ttl=111 time=107 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=13 ttl=111 time=98.9 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=14 ttl=111 time=68.3 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=15 ttl=111 time=105 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=16 ttl=111 time=176 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=17 ttl=111 time=128 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=18 ttl=111 time=104 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=19 ttl=111 time=180 ms
+64 bytes from bom12s03-in-f14.1e100.net (172.217.174.238): icmp_seq=20 ttl=111 time=203 ms
+
+--- youtube.com ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19048ms
+rtt min/avg/max/mdev = 59.249/129.458/203.406/43.590 ms

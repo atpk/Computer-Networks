@@ -1,0 +1,25 @@
+PING flipkart.com (163.53.78.110) 128(156) bytes of data.
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=1 ttl=49 time=70.1 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=2 ttl=49 time=127 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=3 ttl=49 time=104 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=4 ttl=49 time=166 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=5 ttl=49 time=160 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=6 ttl=49 time=79.8 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=7 ttl=49 time=86.2 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=8 ttl=49 time=78.3 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=9 ttl=49 time=109 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=10 ttl=49 time=101 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=11 ttl=49 time=153 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=12 ttl=49 time=93.7 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=13 ttl=49 time=150 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=14 ttl=49 time=101 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=15 ttl=49 time=164 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=16 ttl=49 time=83.4 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=17 ttl=49 time=164 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=18 ttl=49 time=141 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=19 ttl=49 time=158 ms
+136 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=20 ttl=49 time=157 ms
+
+--- flipkart.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19034ms
+rtt min/avg/max/mdev = 70.091/122.309/165.713/33.845 ms

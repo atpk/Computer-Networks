@@ -1,0 +1,25 @@
+PING amazon.com (176.32.103.205) 56(84) bytes of data.
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=1 ttl=219 time=371 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=2 ttl=219 time=320 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=3 ttl=219 time=273 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=4 ttl=219 time=301 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=5 ttl=219 time=342 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=6 ttl=219 time=280 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=7 ttl=219 time=431 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=8 ttl=219 time=391 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=9 ttl=219 time=279 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=10 ttl=219 time=314 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=11 ttl=219 time=352 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=12 ttl=219 time=305 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=13 ttl=219 time=260 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=14 ttl=219 time=461 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=15 ttl=219 time=418 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=16 ttl=219 time=388 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=17 ttl=219 time=336 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=18 ttl=219 time=615 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=19 ttl=219 time=434 ms
+64 bytes from 176.32.103.205 (176.32.103.205): icmp_seq=20 ttl=219 time=533 ms
+
+--- amazon.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19038ms
+rtt min/avg/max/mdev = 259.806/370.194/614.844/89.579 ms

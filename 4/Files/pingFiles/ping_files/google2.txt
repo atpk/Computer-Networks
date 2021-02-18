@@ -1,0 +1,25 @@
+PING google.com (172.217.174.78) 56(84) bytes of data.
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=1 ttl=110 time=157 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=2 ttl=110 time=116 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=3 ttl=110 time=158 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=4 ttl=110 time=170 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=5 ttl=110 time=142 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=6 ttl=110 time=92.5 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=7 ttl=110 time=132 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=8 ttl=110 time=89.7 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=9 ttl=110 time=88.2 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=10 ttl=110 time=153 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=11 ttl=110 time=98.2 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=12 ttl=110 time=172 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=13 ttl=110 time=86.0 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=14 ttl=110 time=108 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=15 ttl=110 time=188 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=16 ttl=110 time=166 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=17 ttl=110 time=160 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=18 ttl=110 time=84.7 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=19 ttl=110 time=83.1 ms
+64 bytes from bom07s25-in-f14.1e100.net (172.217.174.78): icmp_seq=20 ttl=110 time=87.9 ms
+
+--- google.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19012ms
+rtt min/avg/max/mdev = 83.112/126.667/188.175/35.639 ms

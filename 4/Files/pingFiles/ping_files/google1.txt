@@ -1,0 +1,25 @@
+PING google.com (216.58.203.46) 56(84) bytes of data.
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=1 ttl=111 time=199 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=2 ttl=111 time=192 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=3 ttl=111 time=63.9 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=4 ttl=111 time=269 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=5 ttl=111 time=293 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=6 ttl=111 time=215 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=7 ttl=111 time=103 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=8 ttl=111 time=672 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=9 ttl=111 time=69.0 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=10 ttl=111 time=720 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=11 ttl=111 time=232 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=12 ttl=111 time=107 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=13 ttl=111 time=278 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=14 ttl=111 time=199 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=15 ttl=111 time=153 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=16 ttl=111 time=242 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=17 ttl=111 time=265 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=18 ttl=111 time=87.5 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=19 ttl=111 time=208 ms
+64 bytes from hkg12s10-in-f14.1e100.net (216.58.203.46): icmp_seq=20 ttl=111 time=229 ms
+
+--- google.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19017ms
+rtt min/avg/max/mdev = 63.930/239.776/719.731/166.925 ms

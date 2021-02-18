@@ -1,0 +1,25 @@
+PING facebook.com (69.171.250.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=1 ttl=49 time=72.1 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=2 ttl=49 time=85.6 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=3 ttl=49 time=354 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=4 ttl=49 time=92.2 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=5 ttl=49 time=89.9 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=6 ttl=49 time=80.2 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=7 ttl=49 time=162 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=8 ttl=49 time=161 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=9 ttl=49 time=159 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=10 ttl=49 time=155 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=11 ttl=49 time=132 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=12 ttl=49 time=88.8 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=13 ttl=49 time=151 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=14 ttl=49 time=172 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=15 ttl=49 time=144 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=16 ttl=49 time=82.0 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=17 ttl=49 time=154 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=18 ttl=49 time=159 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=19 ttl=49 time=99.1 ms
+64 bytes from edge-star-mini-shv-01-any2.facebook.com (69.171.250.35): icmp_seq=20 ttl=49 time=81.9 ms
+
+--- facebook.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 72.145/133.701/353.558/61.254 ms

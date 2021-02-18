@@ -1,0 +1,19 @@
+PING flipkart.com (163.53.78.110) 2048(2076) bytes of data.
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=1 ttl=50 time=275 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=2 ttl=50 time=299 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=3 ttl=50 time=323 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=4 ttl=50 time=242 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=5 ttl=50 time=264 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=6 ttl=50 time=289 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=7 ttl=50 time=309 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=9 ttl=50 time=328 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=10 ttl=50 time=351 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=11 ttl=50 time=475 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=12 ttl=50 time=599 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=13 ttl=50 time=417 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=14 ttl=50 time=644 ms
+2056 bytes from 163.53.78.110 (163.53.78.110): icmp_seq=15 ttl=50 time=438 ms
+
+--- flipkart.com ping statistics ---
+20 packets transmitted, 14 received, 30% packet loss, time 19141ms
+rtt min/avg/max/mdev = 241.762/375.261/644.307/119.965 ms
